@@ -1,0 +1,10 @@
+{
+	"name": "safe-time-control",
+	"displayName": "Safe Time Control",
+	"author": "1000Mistakes",
+	"description": "Safely speed up and slow down Mindustry without glitching your units in singleplayer, and banning/rubberbanding yourself in multiplayer. Original by [royal]sk7725[].",
+	"version": "0.3",
+	"hidden": true,
+	"minGameVersion": 136,
+	"repo": "50275/TimeControl"
+}
